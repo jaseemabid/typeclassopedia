@@ -3,3 +3,29 @@
 Notes for the Haskell meetup talk, 17th Dec 2016
 
 https://wiki.haskell.org/Typeclassopedia
+
+** Rough outline
+
+*** What is a type class?
+
+*** History
+
+    I think Wadler's paper on ad-hoc polymorphism introduced type classes.
+    Verify and add compelling examples
+
+*** What problems does it solve?
+
+    Comparisons with OOP interfaces might be useful here
+
+*** The analogy problem
+
+    You could have invented monads, buritto,
+
+*** Closest approach in other languages
+
+    Refer Crockford's talk for the js examples
+
+*** The primitive type classes in GHC
+
+    Typeclassopedia is not concerned about Eq and Ord and that makes sense.
+    Might be useful to build the intuition.
