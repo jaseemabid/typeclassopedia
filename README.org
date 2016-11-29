@@ -1,0 +1,5 @@
+** Typeclassopedia
+
+Notes for the Haskell meetup talk, 17th Dec 2016
+
+https://wiki.haskell.org/Typeclassopedia
